@@ -2,17 +2,6 @@ name: neural-feature-extraction
 channels:
   - defaults
   - conda-forge
-  - pytorch
-  - nvidia
 dependencies:
-  - python==3.10
-  - cuda-toolkit
-  - ipython
-  - jupyter
-  - libsndfile==1.0.31
-  - numpy
-  - pandas
-  - pytorch
-  - pytorch-cuda=12.1
-  - seaborn
-  - sentence-transformers
+  - python=3.8
+  - conda-forge::libsndfile

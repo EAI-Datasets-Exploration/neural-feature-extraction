@@ -1,0 +1,226 @@
+kmeans_labels  nl_command_exs                                                       
+0              Turn on the lamp                                                         605
+               Turn the lamp on                                                         167
+               Turn on the floor lamp                                                    83
+               turn on the lamp                                                          80
+               turn the lamp on                                                          80
+               Turn on the lamp on the desk                                              54
+               Turn on the tall lamp                                                     50
+               Turn on the light                                                         43
+               Turn on the lamp on the table                                             37
+               Turn on the desk lamp                                                     32
+               Turn on the lamp on the dresser                                           30
+               turn on the floor lamp                                                    26
+               Turn on the light of the tall lamp                                        17
+               Turn on the lamp in the corner                                            17
+               Turn on the lamp that is sitting on the desk                              16
+1              Go to the microwave                                                      122
+               Turn around and go to the microwave                                       60
+               walk to face microwave                                                    48
+               Turn right and go to the microwave                                        37
+               Turn left to face the microwave                                           34
+               Go to the stove                                                           33
+               Turn left and go to the microwave                                         30
+               Turn around and walk to the microwave                                     30
+               Turn and go to the microwave                                              27
+               Turn left and walk to the microwave                                       22
+               Turn right and walk to the microwave                                      20
+               Turn around and head to the microwave                                     18
+               Move to the microwave                                                     16
+               Open the microwave                                                        16
+               Close the microwave door                                                  15
+2              Pick up a slice of potato                                                 73
+               Cut the potato on the counter into slices                                 34
+               Slice the potato on the counter                                           33
+               Heat the potato in the microwave                                          32
+               Pick up the potato on the counter                                         30
+               Pick up the potato from the counter                                       25
+               Pick up a slice of the potato                                             22
+               Put the potato in the microwave                                           21
+               Pick up a slice of potato on the counter                                  20
+               Put the potato in the sink                                                20
+               Slice the potato on the table                                             19
+               Slice the potato in the sink                                              19
+               Cut the potato in the sink into slices                                    18
+               Pick up the potato in the sink                                            17
+               Put the potato in the trash can                                           17
+3              Shut the door                                                             82
+               Close the door                                                            70
+               Close the door wait a moment and take it out again                        41
+               Pick up the box from the table                                            28
+               Pick up the box                                                           26
+               Pick up the box from the couch                                            25
+               Shut the drawer                                                           23
+               Close the drawer                                                          19
+               Pick up the newspaper on the table                                        19
+               Put the book on the bed                                                   19
+               Pick up the tennis racket from the floor                                  18
+               Go to the bin                                                             18
+               Pick up the credit card on the table                                      18
+               Put the box on the chair                                                  18
+               Put the box on the couch                                                  17
+4              Take a step right                                                         44
+               Take a step left                                                          44
+               Turn to the right                                                         41
+               Move slightly to the left                                                 34
+               Move slightly to the right                                                34
+               Turn around and go to the desk                                            28
+               Turn around                                                               27
+               Turn around and walk to the desk                                          26
+               Turn to the left                                                          26
+               Turn around and walk to the bed                                           24
+               Turn right                                                                22
+               turn to the right                                                         21
+               Take a step to the right                                                  21
+               Take a step to the left                                                   21
+               Turn left                                                                 20
+5              Heat the egg in the microwave                                             40
+               Heat the mug in the microwave                                             34
+               Chill the mug in the fridge                                               24
+               Heat the cup in the microwave                                             21
+               Chill the pot in the fridge                                               20
+               Heat the bread in the microwave                                           19
+               Put the egg in the microwave                                              18
+               Chill the pan in the fridge                                               18
+               Chill the bowl in the fridge                                              17
+               Wash the pan in the sink                                                  17
+               Heat the plate in the microwave                                           16
+               Put the bread in the fridge                                               16
+               Put the pan in the sink                                                   16
+               Put the pan in the fridge                                                 15
+               Put a heated mug on the coffee machine                                    14
+6              Go to the white table                                                     39
+               turn around to the table                                                  37
+               Turn around and go to the table                                           36
+               Turn and go to the table                                                  28
+               Turn around and walk to the table                                         27
+               move left to the table                                                    24
+               Turn around and walk to the white table                                   22
+               Turn around and go to the white table                                     21
+               Turn around and go back to the table                                      18
+               turn left to the table                                                    18
+               Walk over to the table                                                    17
+               walk to face coffee table                                                 17
+               Turn around and face the coffee table                                     17
+               Turn and go to the round table                                            16
+               Look down at the table                                                    16
+7              Pick up a slice of tomato                                                 66
+               Pick up a slice of lettuce                                                44
+               Put the tomato in the microwave                                           44
+               Slice the tomato on the counter                                           42
+               Pick up the tomato on the counter                                         35
+               Slice the tomato on the table                                             33
+               Put the lettuce in the sink                                               31
+               Cut the tomato on the counter into slices                                 29
+               Slice the lettuce on the counter                                          27
+               Heat the tomato in the microwave                                          26
+               Pick up the tomato from the counter                                       24
+               Wash the lettuce in the sink                                              24
+               Place the tomato in the microwave                                         22
+               Pick up a slice of tomato from the counter                                22
+               Pick up the lettuce from the table                                        22
+8              Turn around and go to the stove                                           33
+               Turn left and walk to the counter                                         28
+               Turn left and walk to the stove                                           23
+               Turn and go to the counter by the stove                                   20
+               Go to the counter to the left of the stove                                20
+               Turn around and walk to the counter                                       19
+               Turn around and walk to the stove                                         19
+               Turn around and go to the counter                                         18
+               Turn around and walk back to the stove                                    18
+               Go to the counter                                                         18
+               Walk towards the counter                                                  16
+               Turn left to face the counter                                             16
+               Turn right and walk to the stove                                          15
+               Look down at the counter                                                  14
+               Turn around and face the counter                                          14
+9              Go to the fridge                                                         128
+               Turn around and walk to the fridge                                       115
+               Turn around and go to the fridge                                         112
+               Turn right and walk to the fridge                                         51
+               walk to face fridge                                                       46
+               Turn right and go to the fridge                                           42
+               Turn around and go to the refrigerator                                    38
+               Turn and go to the refrigerator                                           37
+               Close the fridge                                                          31
+               Turn left and walk to the fridge                                          30
+               Turn right move to in front of the refrigerator                           29
+               Turn left move to in front of the refrigerator                            29
+               Turn around and walk to the refrigerator                                  28
+               Turn right and walk over to the fridge                                    24
+               Turn left and go to the fridge                                            24
+10             Put the bottle in the trash can                                           28
+               Wash the soap in the sink                                                 23
+               Wash the rag in the sink                                                  21
+               Put the soap in the tub                                                   21
+               Wash the sponge in the sink                                               18
+               Turn around and go to the trash can                                       18
+               Put the towel in the tub                                                  18
+               Put the towel in the sink                                                 17
+               Pick up the sponge on the counter                                         15
+               Wash the kettle in the sink                                               15
+               Pick up the soap on the counter                                           14
+               Put the candle on the back of the toilet                                  13
+               Put the sponge in the tub                                                 13
+               Bring the soap to the sink                                                12
+               Go to the tub                                                             12
+11             Pick up the knife on the counter                                         240
+               Pick up the knife from the counter                                       124
+               Put the knife in the sink                                                123
+               Pick up the knife on the table                                           107
+               Pick up a slice of bread                                                  87
+               Put the knife in the microwave                                            82
+               Pick up the knife                                                         77
+               Put the knife on the counter                                              69
+               Place the knife in the sink                                               62
+               Put the knife in the fridge                                               56
+               Put the knife on the table                                                53
+               pick up the knife                                                         50
+               Take the knife from the counter                                           47
+               Pick up the knife from the table                                          46
+               Pick up the knife in the sink                                             45
+12             Pick up the pan from the stove                                            33
+               Pick up the plate                                                         28
+               Pick up the bowl                                                          28
+               Pick up the plate from the table                                          25
+               Put the pan on the table                                                  24
+               Pick up the spoon on the counter                                          24
+               Put the mug on the coffee maker                                           23
+               Pick up the spoon from the counter                                        23
+               Pick up the bowl from the table                                           22
+               Pick up the mug                                                           22
+               Put the mug in the coffee maker                                           21
+               Pick up the egg on the counter                                            21
+               Pick up the mug from the coffee machine                                   20
+               Pick up the mug from the coffee maker                                     20
+               Pick up the spatula from the counter                                      19
+13             Turn around and walk to the sink                                         118
+               Turn around and go to the sink                                           108
+               Go to the sink                                                           107
+               Turn right and walk to the sink                                          106
+               Turn left and walk to the sink                                            81
+               Turn left and go to the sink                                              80
+               walk to face sink                                                         72
+               Turn right and go to the sink                                             71
+               Turn and go to the sink                                                   70
+               Turn right to face the sink                                               48
+               Turn around and walk to the toilet                                        40
+               Turn left to face the sink                                                37
+               Turn around and go to the toilet                                          36
+               Turn around and head to the sink                                          31
+               Walk over to the sink                                                     29
+14             Heat the apple in the microwave                                           26
+               Put the apple in the microwave                                            25
+               Put the apple in the sink                                                 24
+               Pick up the apple on the counter                                          23
+               Pick up a slice of apple                                                  23
+               Put the apple in the fridge                                               19
+               Pick up the apple from the counter                                        18
+               Wash the apple in the sink                                                16
+               Cut the apple on the counter                                              16
+               Cook the apple in the microwave                                           16
+               Cut the apple on the table                                                15
+               Put the apple in the trash can                                            14
+               Chill the apple in the fridge then get it back out and close the door     14
+               Slice the apple on the counter                                            14
+               Chill the apple in the fridge                                             13

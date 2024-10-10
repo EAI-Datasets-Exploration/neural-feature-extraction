@@ -1,0 +1,91 @@
+kmeans_labels  nl_command_exs                     
+0              yes                                     293
+               stop                                    269
+               audio sync in three two one             159
+               xxx                                      87
+               cancel                                   68
+               thank you                                62
+               show view                                54
+               two                                      54
+               then stop                                44
+               mhm                                      42
+               task complete                            41
+               no                                       37
+               and give me a visual                     36
+               yeah                                     29
+               and stop                                 29
+1              move forward                            187
+               move forward five feet                  173
+               move forward three feet                 132
+               move forward two feet                   118
+               move forward ten feet                    80
+               five feet                                54
+               go forward five feet                     52
+               move forward one foot                    46
+               move forward four feet                   44
+               three feet                               43
+               ten feet                                 41
+               two feet                                 40
+               go forward three feet                    37
+               go forward ten feet                      34
+               move forward six feet                    28
+2              take a picture                         1750
+               and take a picture                      700
+               take a photo                            304
+               take picture                            224
+               and take a photo                        200
+               send image                              173
+               send photo                              139
+               send a picture                          111
+               send picture                            110
+               take photo                               88
+               and then take a picture                  66
+               take image                               60
+               then take a picture                      57
+               robot take a picture                     42
+               can you take a photo                     35
+3              go through the doorway                   54
+               so how many doorways were there          40
+               how many doorways were there             39
+               move to the next doorway                 17
+               go to the next doorway                   17
+               go through the doorway on your left      16
+               how many doorways do you see             15
+               and go through the doorway               15
+               do you see a doorway                     15
+               move through the doorway                 14
+               so how many doorways did you find        13
+               is there a doorway in front of you       12
+               go through doorway                       11
+               move to the door on your left            10
+               exit the room                            10
+4              okay                                    570
+               i am ready                              152
+               alright                                  67
+               great                                    56
+               ok                                       31
+               im ready                                 23
+               I am ready                               21
+               okay great                               18
+               Im ready                                 13
+               sure                                     12
+               good                                     10
+               okay xxx                                  8
+               ready                                     6
+               okay good                                 5
+               alright great                             4
+5              turn left ninety degrees                165
+               turn right                              160
+               turn left                               151
+               turn right ninety degrees               127
+               turn north                               98
+               turn south                               94
+               turn east                                92
+               turn west                                92
+               face north                               77
+               turn around                              71
+               face west                                69
+               face south                               69
+               turn right forty five degrees            68
+               face east                                65
+               turn left forty five degrees             64

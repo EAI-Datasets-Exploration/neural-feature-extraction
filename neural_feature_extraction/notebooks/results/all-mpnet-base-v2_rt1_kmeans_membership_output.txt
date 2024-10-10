@@ -1,0 +1,82 @@
+kmeans_labels  nl_command_exs                                                      
+0              pick blue plastic bottle from bottom drawer and place on counter         20324
+               pick brown chip bag from bottom drawer and place on counter              19498
+               pick green can from middle drawer and place on counter                   18882
+               pick redbull can from bottom drawer and place on counter                 18852
+               pick orange from bottom drawer and place on counter                      18680
+               pick brown chip bag from middle drawer and place on counter              18641
+               pick green rice chip bag from bottom drawer and place on counter         18620
+               pick green can from bottom drawer and place on counter                   18159
+               pick water bottle from bottom drawer and place on counter                17882
+               pick coke can from bottom drawer and place on counter                    17137
+               pick green jalapeno chip bag from middle drawer and place on counter     16398
+               pick blue chip bag from bottom drawer and place on counter               16075
+               pick green jalapeno chip bag from bottom drawer and place on counter     15707
+               pick orange can from bottom drawer and place on counter                  15567
+               pick sponge from middle drawer and place on counter                      15534
+1              place water bottle into bottom drawer                                    18687
+               place green can into bottom drawer                                       17256
+               place redbull can into middle drawer                                     17240
+               place redbull can into bottom drawer                                     17177
+               place sponge into bottom drawer                                          17032
+               place blue plastic bottle into bottom drawer                             16664
+               place orange can into bottom drawer                                      15079
+               place coke can into bottom drawer                                        15077
+               place rxbar blueberry into bottom drawer                                 14901
+               place green can into top drawer                                          14385
+               place blue plastic bottle into top drawer                                14276
+               place orange into middle drawer                                          13983
+               place 7up can into middle drawer                                         13970
+               place orange can into middle drawer                                      13784
+               place blue plastic bottle into middle drawer                             13684
+2              pick rxbar chocolate                                                     17155
+               pick green rice chip bag                                                 15942
+               pick blue chip bag                                                       15421
+               pick brown chip bag                                                      14803
+               pick green jalapeno chip bag                                             14386
+               move rxbar chocolate near orange                                          5156
+               move sponge near orange                                                   4515
+               move orange near green rice chip bag                                      4411
+               move rxbar chocolate near blue plastic bottle                             4260
+               move orange near rxbar blueberry                                          4179
+               move green rice chip bag near orange                                      4139
+               move rxbar blueberry near sponge                                          4136
+               move sponge near rxbar chocolate                                          4135
+               move rxbar blueberry near apple                                           4124
+               move orange near rxbar chocolate                                          3953
+3              pick banana from white bowl                                             105773
+               pick orange from white bowl                                              63407
+               pick apple from white bowl                                               60655
+               pick rxbar blueberry                                                     17907
+               pick sponge                                                              16243
+               pick apple                                                               14668
+               pick orange                                                              13491
+               place rxbar blueberry into white bowl                                      601
+               pick apple from white bowl and place on counter                            473
+               pick orange from white bowl and place on counter                           392
+               place orange into white bowl                                               389
+               place sponge into white bowl                                               373
+               place apple into paper bowl                                                372
+               move apple near white bowl                                                 363
+               pick rxbar blueberry from white bowl and place on counter                  323
+4              place blue plastic bottle upright                                        28411
+               place green can upright                                                  26505
+               place water bottle upright                                               26096
+               open right fridge door                                                   23782
+               place coke can upright                                                   22834
+               place pepsi can upright                                                  22433
+               place 7up can upright                                                    21946
+               place orange can upright                                                 20490
+               place redbull can upright                                                20019
+               knock redbull can over                                                   19154
+               knock coke can over                                                      19009
+               knock blue plastic bottle over                                           18918
+               knock green can over                                                     18574
+               knock orange can over                                                    16467
+               knock water bottle over                                                  15975
+5              open bottom drawer                                                      160363
+               open top drawer                                                         154075
+               open middle drawer                                                      151575
+               close bottom drawer                                                     117654
+               close middle drawer                                                     100032
+               close top drawer                                                         82330

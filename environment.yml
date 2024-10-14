@@ -2,6 +2,8 @@ name: neural-feature-extraction
 channels:
   - defaults
   - conda-forge
+  - nvidia
 dependencies:
   - python=3.8
   - conda-forge::libsndfile
+

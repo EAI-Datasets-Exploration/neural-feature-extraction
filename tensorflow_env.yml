@@ -1,0 +1,11 @@
+name: tf_gpu
+channels:
+  - defaults
+  - conda-forge
+  - nvidia
+dependencies:
+  - python~=3.11
+  - cudatoolkit=11.2
+  - cudnn=8.1
+  - tensorflow-gpu
+

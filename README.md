@@ -16,6 +16,14 @@ for every new terminal session you begin.
 ## How to Run
 This package assumes you also have the ```dataset-download-scripts``` package. This is because line 33 in this package's ```__main__.py``` references the ```metadata.json``` file in the ```dataset-download-scripts``` package.
 
+### For a single experiment:
+
+```$ python -m neural_feature_extraction```
+
+### For all models and datasets:
+
+```$ bash run_full_experiment.sh```
+
 ## Before you commit!
 
 1. Ensure you code "works" otherwise save to an appropriate branch

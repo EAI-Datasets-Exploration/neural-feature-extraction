@@ -3,8 +3,13 @@
 contact: agnes.luhtaru@ut.ee or slwanna@utexas.edu
 
 ## Setup Instructions
-- ```$ conda env create -f environment.yml```
-- ```$ conda activate neural-feature-extraction```
+- ```$ conda env create -f tf_and_torch_env.yml```
+- ```$ conda activate tf-and-torch-gpu```
+
+Make sure you link the cuda install of conda for tensorflow. You will have to do this
+for every new terminal session you begin.
+
+- ```$ export LD_LIBRARY_PATH="${CONDA_PREFIX}/lib:${LD_LIBRARY_PATH}"``` 
 - ```$ make dev_install```
 
 ## How to Run

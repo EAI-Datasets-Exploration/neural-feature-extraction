@@ -3,6 +3,7 @@
 contact: agnes.luhtaru@ut.ee or slwanna@utexas.edu
 
 ## Setup Instructions
+1. Find the `tf_and_torch_env.yml` file and point the `prefix` path to your conda installation.
 - ```$ conda env create -f tf_and_torch_env.yml```
 - ```$ conda activate tf-and-torch-gpu```
 

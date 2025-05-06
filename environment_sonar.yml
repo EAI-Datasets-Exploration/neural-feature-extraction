@@ -1,0 +1,12 @@
+name: neural-feature-extraction-sonar
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - libsndfile=1.0.31
+  - pandas
+  - pip:
+      - fairseq2
+      - sonar-space
